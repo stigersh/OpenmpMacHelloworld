@@ -1,5 +1,5 @@
 # OpenmpMacHelloworld
-basic openmp app works on mac
+basic openmp app works on mac. Thanks to openmp support team for sending a quick reply and example
 
 
 from project folder:
